@@ -545,7 +545,7 @@ footer{
     body{
         margin: 0;
         padding: 0;
-        text-align: center;
+        
     }
     .topbar{
         flex-direction: column;
@@ -613,7 +613,7 @@ footer{
     text-align: center;
 }
 .process{
-    margin-top: 760px;
+    margin-top: 900px;
 }
 .v1{
     margin-right: 92px;
@@ -672,6 +672,7 @@ footer{
 #pro{
    color: rgb(75, 78, 78);
 }
+
 .items6{
     padding-left: 90px;
     padding-right: 90px;
