@@ -609,9 +609,11 @@ footer{
 .container1{
     grid-template-columns: 1fr;
 }
-
+.v1{
+    text-align: center;
+}
 .process{
-    margin-top: 1020px;
+    margin-top: 760px;
 }
 .v1{
     margin-right: 92px;
@@ -665,12 +667,10 @@ footer{
     margin-right: 10px;
     place-items: center;
 
-
 }
 #pro{
    color: rgb(75, 78, 78);
 }
-
 .items6{
     padding-left: 90px;
     padding-right: 90px;
