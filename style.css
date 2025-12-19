@@ -609,11 +609,9 @@ footer{
 .container1{
     grid-template-columns: 1fr;
 }
-.v1{
-    text-align: center;
-}
+
 .process{
-    margin-top: 900px;
+    margin-top: 1020px;
 }
 .v1{
     margin-right: 92px;
