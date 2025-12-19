@@ -545,6 +545,7 @@ footer{
     body{
         margin: 0;
         padding: 0;
+        text-align: center;
     }
     .topbar{
         flex-direction: column;
@@ -598,7 +599,9 @@ footer{
 }
 .services{
     margin-left: 20px;
+   
 }
+
 #image1{
     width: 40px;
     height: auto;
@@ -610,7 +613,11 @@ footer{
     text-align: center;
 }
 .process{
-    margin-top: 1040px;
+    margin-top: 760px;
+}
+.v1{
+    margin-right: 92px;
+    
 }
 .p6, .h1{
     margin-left: 20px;
@@ -658,6 +665,15 @@ footer{
     grid-template-columns: 1fr;
     margin-left: 10px;
     margin-right: 10px;
+    place-items: center;
+
+}
+#pro{
+   color: rgb(75, 78, 78);
+}
+.items6{
+    padding-left: 90px;
+    padding-right: 90px;
 }
 .clients{
     margin: 0;
@@ -671,11 +687,16 @@ footer{
 .container7{
     flex-direction: column;
 }
+footer{
+    margin-top: 30px;
+}
 .pied{
     margin-left: 20px;
 }
 
-
+#cap, .tem{
+    margin-left: 22px;
+}
 
 }
 
